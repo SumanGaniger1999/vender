@@ -1,0 +1,22 @@
+img{
+    height:160px ;
+    width:250 px;
+    padding: 15px;
+}
+table{
+    border: solid;
+
+}
+td{
+    border: solid;
+}
+button{
+    text-align: center;
+    margin-left: 50px;
+}
+input{
+    width:10 px;
+    margin-left:25px;
+
+
+}
